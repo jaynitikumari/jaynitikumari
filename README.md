@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jayniti2k1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JldKFf26dt3rAGrKEKoMd7FHHRqfEERb/view?usp=sharing](https://drive.google.com/file/d/1JldKFf26dt3rAGrKEKoMd7FHHRqfEERb/view?usp=sharing)
+- 📄 Know about my experiences [Link to my resume](https://drive.google.com/file/d/1JldKFf26dt3rAGrKEKoMd7FHHRqfEERb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
