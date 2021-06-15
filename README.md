@@ -24,6 +24,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaynitikumari&show_icons=true&locale=en&layout=compact" alt="jaynitikumari" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaynitikumaril&layout=compact)](https://github.com/jaynitikumari/github-readme-stats) 
-<br>
 ![jaynitikumari's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaynitikumari&hide=issues,prs)
